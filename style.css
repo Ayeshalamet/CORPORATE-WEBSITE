@@ -1,0 +1,282 @@
+@charset "utf-8";
+#wrapper {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 36px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFF8DC;
+    text-decoration: none;
+    background-color: #FFF8DC;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    height: 1920px;
+    width: 1300px;
+   
+}
+#header {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 36px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFF8DC;
+    text-decoration: none;
+    background-color: #E799A3 ;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    height: 50px;
+    width: 1000px;
+    border:  #C19A6B;
+}
+
+#main {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: underline;
+    background-color: #FFDFDD;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    height: 970px;
+    width: 1000px;
+    border: thick ridge #C19A6B;
+}
+.boxes {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #7A7A7A;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    float: left;
+    height: 280px;
+    width: 290px;
+    border: thick double #C19A6B;
+    list-style-type: none;
+    position: relative;
+}
+.boxes {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #7A7A7A;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    height: 280px;
+    width: 290px;
+    border: thick double #FFFFFF;
+    list-style-type: none;
+    position: relative;
+}
+.boxes {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #7A7A7A;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    height: 280px;
+    width: 290px;
+    border: thick double #FFFFFF;
+    list-style-type: none;
+    position: relative;
+}
+.boxes {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #7A7A7A;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    height: 280px;
+    width: 290px;
+    border: thick double #FFFFFF;
+    list-style-type: none;
+    position: relative;
+}
+.boxes {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #7A7A7A;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    height: 280px;
+    width: 290px;
+    border: thick double #FFFFFF;
+    list-style-type: none;
+    position: relative;
+}
+.boxes {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #7A7A7A;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    height: 280px;
+    width: 290px;
+    border: thick double #FFFFFF;
+    list-style-type: none;
+    position: relative;
+}
+.boxes {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #7A7A7A;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    height: 280px;
+    width: 290px;
+    border: medium solid #FFFFFF;
+    list-style-type: none;
+    position: relative;
+}
+.boxes {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #7A7A7A;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    height: 280px;
+    width: 290px;
+    border: thick double #FFFFFF;
+    list-style-type: none;
+    position: relative;
+}
+.boxes {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #B38481;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    height: 280px;
+    width: 290px;
+    border: thick double #E6C7C2;
+    list-style-type: none;
+    position: relative;
+}
+#footer {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #000000;
+    background-color: #E8ADAA;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    height: 170px;
+    width: 1100px;
+    border:  #C19A6B ;
+}
